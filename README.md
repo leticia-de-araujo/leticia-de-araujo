@@ -24,6 +24,6 @@
   ##
   
   <div>
-  <a href="www.linkedin.com/in/letícia-de-araújo-nunes-88bb731bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-de-ara%C3%BAjo-nunes-88bb731bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:leticiadearaujonunes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
