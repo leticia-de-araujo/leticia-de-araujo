@@ -1,7 +1,8 @@
 ### Hi there, I'm Letícia👋
 
 <div>
-  <p>I'm a junior Front-End developer, and I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brazil</a>.</p>
+  <p>I'm a Front-End Developer and a Full-Stack Developer Jr.</p> 
+  <p>I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brazil</a>.</p>
  </div>
  
    ##
