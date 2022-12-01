@@ -2,7 +2,6 @@
 
 <div>
   <p>I'm a Full-Stack Developer and Back-End Developer.</p> 
-  <p>I'm studying Full-Stack Web development at <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brazil</a>.</p>
  </div>
  
    ##
