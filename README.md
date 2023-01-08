@@ -1,7 +1,7 @@
 ### Hi there, I'm Letícia👋
 
 <div>
-  <p>I'm a Full-Stack Developer and Back-End Developer.</p> 
+  <p>I'm a Full-Stack Developer.</p> 
  </div>
  
    ##
